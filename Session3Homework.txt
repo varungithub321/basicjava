@@ -1,0 +1,12 @@
+Session 3 Homework:
+
+git clone- clones git repository into the PC.
+
+git status-show the changes that are done in the file
+
+if red:
+git add . - will add files into local git
+
+git commit -m "(comments)" - will commit to local git
+
+git push origin master - will push changes into github account
