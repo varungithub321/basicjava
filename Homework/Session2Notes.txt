@@ -1,3 +1,5 @@
+Session 2 Notes
+
 Binary Digits:
 Bit: 
 One binary digit, and the smallest data type in the computer system
