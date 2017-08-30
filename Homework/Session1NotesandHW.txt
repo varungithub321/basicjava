@@ -1,0 +1,53 @@
+Session 1 Notes
+- A computer is a machine that consists of hardware and software
+- Hardware is something that is tangible about the computer, for example, a Mouse Keyboard, Motherboard, etc. 
+-Software is something about the computer that is intangible. Some examples are OS X, Windows 10, etc. 
+
+Parts of a computer:
+
+CPU: 
+- Short form for Central Processing Unit.
+- Executes commands
+- Like the human brain
+
+RAM:
+- Does the work needed temporarily, and it is "thrown away" after it completes the work.
+-Like a "scratchpad" or "rough paper"
+
+Hard Disk:
+-Hard Disk stores and saves information permanently to which the computer refers back to.
+-Like a reference textbook or notebook
+
+Software:
+Operating  System:
+Users interact with this software to run other programs.
+
+
+A program is a series of steps/ series of instructions that the computer 
+uses to execute commands. 
+
+Binary Number System:
+The binary number system is a number system consisting of 0s and 1s and it is the language that a computer understands. After running a program, the computer will convert the program into binary language and then execute the command.
+
+Converting binary to decimal:
+Example- 11100111
+-Take digit(0 or 1) and multiply it with 2 to the power of the number of terms minus 1(7 in this example) and add it to the next term, which would have an exponent 1 lower than the previous one(6), and so forth until the exponent is 0.
+11100111:
+(1 * 2^7) + (1 * 2^6) + (1 * 2^5) + (0 * 2^4) + (0 * 2^3) +(1 * 2^2) + (1 * 2^1) + (1 * 2^0)
+= 128 + 64 + 32 + 0 + 0 + 4 + 2 + 1
+=231
+
+Converting decimal to binary:
+Make sure the number is additions of the exponents with the base 2. 
+83: 
+64 + 16 + 2 + 1
+As 2^2, 2^3 and 2^5 are missing they are counted as 0s
+Starting from the end, 
+1010011
+
+Another code that computers can understand is ASCII(American Standarad Code Information Interchange)
+
+
+
+
+ 
