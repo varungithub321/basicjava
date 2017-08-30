@@ -1,0 +1,61 @@
+Binary Digits:
+Bit: 
+One binary digit, and the smallest data type in the computer system
+
+Number of Bits	Number of Values	Values
+1 (2^1)		2			0-1	
+2 (2^2)		4			0-3
+3 (2^3)		8			0-7
+4 (2^4)		16			0-15
+5 (2^5)		32			0-31
+6 (2^6)		64			0-63
+7 (2^7)		128			0-127
+8 (2^8)		256			0-128
+
+8  bits are equal to 1 byte
+1024 bytes are equal to 1 kilo byte
+10^6 bytes are equal to 1 mega byte
+10^9 bytes are equal to 1 giga byte
+
+Windows OS:
+-Search up winver after clicking on the windows logo button on the bottom left corner. This window that pops up will show the type of version that the computer is. 
+
+Task Manager-Performance-Memory
+This procedure will show the amount of memory that the computer can store
+
+The capacity of the computer can be found by going to the C: Drive in the file explorer. 
+
+Folders and Files:
+Files contain bytes of information and they are stored in binary by the computer. 
+Examples 
+.txt-Text
+.exe-Executable
+.png,.jpg-Picture
+.mp4-Videos
+.mp3-Audi
+.html-html files
+
+Folders contain a collection of files.
+
+Command Prompt:
+Command Prompt is an executable file that can follow the commands that you type in it. 
+Searching cmd can get you to Command Prompt. 
+
+Commands:
+md-Create Directory
+cd-Change Directory
+c:\-Takes the absolute path to the directory that is desired. 
+
+Eclipse:
+-Used to develop own programs. 
+-Called IDE or Interactive Development Environment
+
+Coding:
+System.out.println("");
+This will print anything that is typed in between the quotes. 
+Syntax:
+There has to be a semicolon at the end of every command. 
+Quotes are required to print exactly what is typed in them. 
+Main:
+A java program will always sart from the main. 
+
