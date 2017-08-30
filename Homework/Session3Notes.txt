@@ -1,3 +1,5 @@
+Session 3 Notes
+
 Git:
 Git is a version control system where multiple persons can work on the same text document, combine them, and view the changes that were done, etc. 
 In this class, Github will be used for notes, exercises, and quizzes.
