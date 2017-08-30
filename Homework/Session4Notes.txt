@@ -1,0 +1,50 @@
+Session 4 Notes 
+
+Variables can have values assigned to them, and the assigned value can keep changing. 
+
+Constants are numbers that can never change. 
+
+Data Types:
+Numbers without Decimals - int(Integers)
+The information stored in quotes - String
+Numbers with decimals - Double 
+
+Syntax:
+Syntax is just like grammar in English language. 
+Examples:
+';' at the end of every statement
+declaring variables requires data type, followed by the variable name, then '=', and then the value that is assigned to it.
+
+Conditional Statements:
+If, else if, and else statements are conditional statements that give a condition of one or more events that would not take place. 
+
+Syntax
+if(anything coming to true/false){}
+else if(anything coming to true/false){}
+else{}
+
+Loops
+For Loop:
+Have a four part structure
+1.Assigning the variable a value
+2.Giving the variable a condition
+3.Having an increment for the variable
+4. The output that the loop should give out everytime the variable increments. 
+
+Double Slash('//') comments the line that are in the program, and the computer doesn't see them. 
+
+Ctrl+Shift+F can be used to correct indentation
+
+If there is a syntax error, Eclipse will show a red circle to the left of the program, and it explains the syntax error that has been made. 
+
+It is important that every block of code should have opening and closing curly brackets. 
+
+
+
+
+
+
+
+ 
+
+
