@@ -1,0 +1,34 @@
+Git:
+Git is a version control system where multiple persons can work on the same text document, combine them, and view the changes that were done, etc. 
+In this class, Github will be used for notes, exercises, and quizzes.
+Looking and referencing back will also be easy while using Github. 
+
+A git repository is a collection of files and/or folders. 
+
+To clone the repository onto your computer, 
+cd\
+md gitlearn
+cd gitlearn
+git clone aboveurl
+
+Adding New Files:
+
+After making a new file,
+-Save the file into your repository folder on the computer
+-Type in git status and this will show the changes that were done. 
+-Type in git add and this will add the files into the local git. 
+-Type git status again to see if the change was successfully completed
+-git commit -m "Comment" will commit to push the file into the account
+-git push origin master will push the file changes into the github account
+
+Procedure for modifying the files is the same as adding new files.
+
+Deleting Files:
+Use 'del' command and then repeat the git commands again. 
+
+Saving eclipse programs into the repository folder and repeating the same git commands would push the program folder into the local git. 
+
+
+
+
+
