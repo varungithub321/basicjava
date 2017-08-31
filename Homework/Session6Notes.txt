@@ -1,0 +1,27 @@
+Session 6 Notes: 
+
+Creating your own Data Type: 
+
+You can create your own data type by making a class for it. Declaring variables which talk about the data type's properties will complete the creation of the data type. 
+ 
+For Example: 
+A person has
+Age
+Weight 
+Height
+Grade
+
+Using your data type: 
+Just like declaring a new scanner:
+
+Person person1 = new Person();
+
+And after this you can do 
+person 1.age = 15;, and it also works with the different properties that you have declared for that data type.
+
+General Rules: 
+Every variable has to be declared before used. 
+
+All statements that open with curly brackets should close with a closing curly bracket. 
+
+Not every line of code ends with a semicolon. As only statements end with periods in English, every statement ends with a semicolon in Java. 
