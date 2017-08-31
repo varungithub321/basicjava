@@ -1,0 +1,20 @@
+Session 5 Notes
+
+Taking User Input:
+When we take input from the user, above the class, we have to import the scanner by typing in 'java.util.scanner;'. 
+-Then we can initialize a variable, scanner, by using :
+Scanner scanner = new Scanner(System.in);
+
+Steps for writing a program:
+
+Step 1:
+Understand the requirements and functions of the program. 
+
+Step 2:
+Instead of thinking from a coding perspective, approach the problem in a logical way. 
+
+Step 3:
+Figure out the statements and the syntax that you would need to use. 
+
+Pseudo Logic : 
+Pseudo logic is a type of logical code that is used to approach a way to write the program. 
